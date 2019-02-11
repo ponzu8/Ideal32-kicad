@@ -1,15 +1,13 @@
-# Ideal32
-
-![Ideal32](imgur.com image replace me!)
-
-A short description of the keyboard/project
-
-Keyboard Maintainer: [You](https://github.com/yourusername)  
-Hardware Supported: The PCBs, controllers supported  
-Hardware Availability: links to where you can find this hardware
-
-Make example for this keyboard (after setting up your build environment):
-
-    make Ideal32:default
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+症状としましては
+R=L10=K02
+S=L12=K09
+C=L13=K12
+U=R10
+L=R12
+N=R13
+この6つのキーが反応しない状態です。
+手元にテスタ―がないため導通もできない状況です、申し訳ございません。
+今回設計など初めてのことで回路図とpcbnewをうまく作成することができずごちゃごちゃになっています。
+他人任せとなってしまい大変申し訳ないのですがよろしくお願いいたします。
+できれば何かお礼でもさせていただければと思っております。
+お手数おかけしてしまい、大変申し訳ございません。
